@@ -20,6 +20,11 @@ module.exports = {
 
 	ignorePatterns: ['.eslintrc.js', '**/*.js', '**/node_modules/**', '**/dist/**'],
 
+	extends: [
+		'plugin:@typescript-eslint/recommended',
+		'plugin:prettier/recommended',
+	],
+
 	overrides: [
 		{
 			files: ['package.json'],

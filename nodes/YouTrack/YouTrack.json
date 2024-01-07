@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.youtrack",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Issue tracking system", "Bug tracker"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://www.jetbrains.com/help/youtrack/devportal/log-in-to-hub-rest-api.html"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://www.jetbrains.com/help/youtrack/devportal/log-in-to-hub-rest-api.html"
+			}
+		]
+	}
+}
