@@ -20,8 +20,8 @@
 		"lint": "eslint nodes credentials package.json",
 		"lintfix": "eslint nodes credentials package.json --fix",
 		"prepublishOnly": "npm run build && npm run lint -c .eslintrc.prepublish.js nodes credentials package.json",
-    "test": "echo 'Nothing to test'"
-  },
+		"test": "echo 'Nothing to test'"
+	},
 	"files": [
 		"dist"
 	],
