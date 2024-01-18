@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-youtrack",
-	"version": "0.1.0",
-	"description": "123",
+	"version": "1.0.0",
+	"description": "JetBrains Youtrack integration for n8n",
 	"keywords": [
 		"n8n-community-node-package"
 	],
